@@ -54,7 +54,7 @@ The analysis uses NYC's **311 Service Requests dataset** containing:
 
 ### Opening the Interactive HTML
 
-1. Open `nyc_311_sankey.html` in any modern web browser
+1. Open `index.html` in any modern web browser
 2. The Sankey diagram displays immediately with all 5 boroughs, top 10 complaint types, and assigned agencies
 
 ## References
